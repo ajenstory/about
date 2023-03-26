@@ -4,7 +4,7 @@ I discovered a passion for software development while retraining at Developers I
 
 ### What I'm working on
 
-- A portfolio and blog site where I also plan to share projects I am working on, and share more of my thoughts and experiences in writing. 
+- A portfolio and blog site where I also plan to share projects I am working on, and share more of my thoughts and experiences in writing.👩🏻‍💻
 
 - A recipe finder and menu builder that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind. 🍏
 
