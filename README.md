@@ -4,7 +4,7 @@ I discovered my passion for software development while retraining at Developers 
 
 #### What I'm working on now
 
-- A [personal site](https://github.com/ajenstory) that will be a digital garden of sorts. I also plan to share projects I am working on, and share some writing 👩🏻‍💻
+- A [personal portfolio and site](https://jencorbett.dev). A digital garden of sorts. Space to share projects I am working on, and publish writing 👩🏻‍💻
 
 #### What I'm working on next
 
@@ -19,10 +19,10 @@ I discovered my passion for software development while retraining at Developers 
 #### How you can reach me
 If you're interested in working together on something or talking about projects and ideas, let's connect and make it happen! ✨
 
-- Email me at: hello[at]jencorbett.dev 📬
-- Find me on Mastodon: https://mastodon.nz/@jen 🐘
-- Find me on Twitter: https://twitter.com/ajenstory 🐦
-- Find me on LinkedIn: https://linkedin.com/in/jencorbett 📑
+- [Email](mailto:hello[at]jencorbett.dev)📬
+- [Mastodon](https://mastodon.nz/@jen) 🐘
+- [Twitter](https://twitter.com/ajenstory) 🐦
+- [LinkedIn](https://linkedin.com/in/jencorbett) 📑
 
 <!---
 crashtestdolly/crashtestdolly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
