@@ -4,7 +4,7 @@ I discovered my passion for software development while retraining at Developers 
 
 #### What I'm working on now
 
-- A [personal web app](https://jencorbett.dev) where I will publish my own content, projects, writing and photography 👩🏻‍💻
+- A [personal web app](https://github.com/ajenstory/jencorbett.dev)to host my own content, projects, writing and photography, utilising NEXT.js, spotify API, content-layer & Vercel for CI/CD 👩🏻‍💻
 
 #### What I'm working on next
 
