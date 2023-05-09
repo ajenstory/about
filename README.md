@@ -1,7 +1,6 @@
 Hi, I'm Jen!
 
-I'm a developer and digital strategist based near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland &nbsp; 
-[Located on the east coast, about 2 hours drive north of Tāmaki Makaurau / Auckland in Aotearoa, New Zealand](https://goo.gl/maps/SBy16KxPjGRVYPbu5).
+I'm a developer and digital strategist based near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland &nbsp;[about 2 hours drive north of Tāmaki Makaurau / Auckland in Aotearoa, New Zealand](https://goo.gl/maps/SBy16KxPjGRVYPbu5).
 
 #### More about me   &nbsp;👩🏻‍💻
 I recently graduated from Developers Institute, and before that I worked in social media 👩🏻‍🚀
