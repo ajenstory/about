@@ -1,6 +1,6 @@
 Hi, I'm Jen!
 
-I discovered my passion for software development while retraining at Developers Institute here in Aoteoroa New Zealand. 
+I'm a developer and digital strategist based in Ruakākā, Te tai tokerau, Northland. Located on the east coast north of Tamaki Makaurau, Auckland in Aotearoa, New Zealand.
 
 #### What I'm working on now
 
@@ -8,7 +8,7 @@ I discovered my passion for software development while retraining at Developers 
 
 #### What I'm working on next
 
-- Resuming work on an online course registation and management platform for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe. 🎓
+- An online course registation and management platform for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe. 🎓
 
 #### Other projects in progress
 
