@@ -2,23 +2,18 @@ Hi, I'm Jen!
 
 I'm a developer and digital strategist based near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland &nbsp;[about 2 hours drive north of Tāmaki Makaurau / Auckland in Aotearoa, New Zealand](https://goo.gl/maps/SBy16KxPjGRVYPbu5).
 
-#### More about me   &nbsp;👩🏻‍💻
-I recently graduated from Developers Institute, and before that I worked in social media 👩🏻‍🚀
-  
-
+#### More about me   &nbsp;👩🏻‍🚀
+I recently graduated from Developers Institute, following a lifeling passion for technology. Before that I worked in social media and digital marketing. I'm a proud cat and dog lady, a creative, sometime thespian, and a virtual flâneuse. 
+ 
 #### What I'm working on now   &nbsp;👩🏻‍💻
-A [personal porfrolio web app](https://github.com/ajenstory/jencorbett.dev) utilising NEXT.js, tapping into the spotify API, leveraging content-layer & Vercel for CI/CD  
-  
+A [personal porfrolio web app](https://github.com/ajenstory/jencorbett.dev) utilising NEXT.js, tapping into the spotify API, leveraging content-layer & Vercel for CI/CD   
 
 #### What I'm working on next  &nbsp;🎓
-An online course registation and management app for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe. 
-
-  
+An online course registation and management app for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe.   
 
 #### Other projects I'm playing with   &nbsp;🐶  
 A menu building app that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind 
 A service finder app connecting dog owners with trusted dog walkers, feeders, companions, and daycare providers in their local area 
-
 
 ### How to reach me 📯
 If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
