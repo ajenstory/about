@@ -10,8 +10,6 @@ I'm currently working through coding challenges and tutorials to learn and impro
 
 #### What I'm working on next  &nbsp;🎓
 - AILA - an online course registation and management app for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe.   
-
-#### Other projects I'm playing with   &nbsp;🐶  
 - A menu building app that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind 
 - A service finder app connecting dog owners with trusted dog walkers, feeders, companions, and daycare providers in their local area 
 
