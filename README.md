@@ -5,7 +5,7 @@ I'm a developer and digital strategist based near a beautiful stretch of coastli
 #### What I'm working on now &nbsp;👩🏻‍💻
 I'm currently working through coding challenges and tutorials to learn and improve on my current skill set. Developing concepts and exploring new areas of interest. At the moment, these are:
 - [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev) 
-- [Habitude: Gratitude Tracker](https://github.com/ajenstory/habitude-app)
+- [Habitude: Gratitude Tracker](https://github.com/ajenstory/habitude)
 - [WishWizard: Personalised wishlist manager](https://github.com/ajenstory/wishwizard) 
 
 #### What I'm working on next  &nbsp;🎓
