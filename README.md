@@ -1,6 +1,6 @@
 Hi, I'm Jen!
 
-I'm a developer and digital strategist based near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland, 
+I'm a web developer, designer and digital strategist, living near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland, 
 &nbsp; [about 2 hours drive north of Tāmaki Makaurau / Auckland in Aotearoa, New Zealand](https://goo.gl/maps/SBy16KxPjGRVYPbu5).
 
 #### What I'm working on now &nbsp;👩🏻‍💻
@@ -14,11 +14,9 @@ I'm currently working on a porfolio of projects, and training to build on the fo
 - A service finder app connecting dog owners with trusted dog walkers, feeders, companions, and daycare providers in their local area 
 - AILA - an online course registation and management app for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe.   
 
-#### More about me  &nbsp;👩🏻‍🚀
-I recently graduated from Developers Institute, following a lifeling passion for technology. Before that I worked in social media and digital marketing. I'm a proud cat and dog lady, a creative, sometime thespian, and a virtual flâneuse. 
  
 ### How to reach me 📯
-If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
+I'm currently seeking full-time work.  I'm also available for freelance projects. If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
