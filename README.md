@@ -3,19 +3,21 @@ Hi, I'm Jen!
 I'm beginning my journey into web development following more than 10 years in social media and digital marketing. 
 
 #### What I'm working on now &nbsp;👩🏻‍💻
-I'm currently working on a porfolio of projects, and training to build on the foundation of skills I gained while studying Web Development and Design at Developers Institute. At the moment, these projects include:
-- [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev) 
+I'm currently building a porfolio of personal projects which will live at [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev) 
+<!--
 - [Habitude: Gratitude Tracker](https://github.com/ajenstory/habitude)
 - [WishWizard: Personalised wishlist manager](https://github.com/ajenstory/wishwizard) 
+--->
 
-#### What I'm working on next  &nbsp;🎓
-- A menu building app that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind 
+#### Projects &nbsp;🎓
+- Habitude: Gratitude Tracker
+- WishWizard: Personalised wishlist manager
+- SustainaTable: A menu building app that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind 
 - A service finder app connecting dog owners with trusted dog walkers, feeders, companions, and daycare providers in their local area 
 - AILA - an online course registation and management app for continuing professional development, complete with an easy-to-use online administration system, learner enrolment and certification. With secure payment processing through Stripe.   
 
- 
 ### How to reach me 📯
-I'm currently seeking full-time work.  I'm also available for freelance projects. If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
+I'm currently seeking interships and work experience. I'm also available for freelance projects. If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
