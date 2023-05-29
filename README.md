@@ -1,7 +1,6 @@
 Hi, I'm Jen!
 
-I'm a web developer, designer and digital strategist, living near a beautiful stretch of coastline in Ruakākā, Te tai tokerau / Northland, 
-&nbsp; [about 2 hours drive north of Tāmaki Makaurau / Auckland in Aotearoa, New Zealand](https://goo.gl/maps/SBy16KxPjGRVYPbu5).
+I'm beginning my journey into web development following more than 10 years in social media and digital marketing. 
 
 #### What I'm working on now &nbsp;👩🏻‍💻
 I'm currently working on a porfolio of projects, and training to build on the foundation of skills I gained while studying Web Development and Design at Developers Institute. At the moment, these projects include:
