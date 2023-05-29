@@ -10,7 +10,7 @@ I'm currently working on my front-end development skills, and also building a po
 - [WishWizard: Personalised wishlist manager](https://github.com/ajenstory/wishwizard) 
 --->
 
-#### Projects &nbsp;🎓
+#### Projects &nbsp; 📒
 - Habitude: Gratitude Tracker
 - WishWizard: Personalised wishlist manager
 - SustainaTable: A menu building app that helps foodies and restaurateurs build sustainable menu plans with a low carbon footprint in mind 
