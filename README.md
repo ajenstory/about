@@ -3,8 +3,9 @@ Hi, I'm Jen!
 I'm beginning my journey into web development following more than 10 years in social media and digital marketing. 
 
 #### What I'm working on now &nbsp;👩🏻‍💻
-I'm currently building a porfolio of personal projects which will live at [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev) 
+I'm currently working on my front-end development skills, and also building a porfolio of personal projects which will live at [JenCorbett.dev](https://jencorbett.dev) 
 <!--
+- [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev)
 - [Habitude: Gratitude Tracker](https://github.com/ajenstory/habitude)
 - [WishWizard: Personalised wishlist manager](https://github.com/ajenstory/wishwizard) 
 --->
