@@ -1,6 +1,6 @@
 Hey, it's Jen!
 
-I'm journeying into software development after more than a decade in the socal media and digital space!
+I'm journeying into software development folowing more than a decade in the social media and digital marketing space!
 
 #### What I'm working on now &nbsp;👩🏻‍💻
 I'm currently building my portfolio at [JenCorbett.dev](https://jencorbett.dev) 
@@ -8,10 +8,10 @@ I'm currently building my portfolio at [JenCorbett.dev](https://jencorbett.dev)
 - [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev)
 --->
 
-More details on projects to follow soon...
+I'll be sharing more details on projects here soon...
 
 ### Let's connect &nbsp; 📯
-If you're interested in working together, mentoring me, buying me a coffee or chatting about projects and ideas, let's connect and make it happen! ✨
+If you're interested in collaborating, let's connect on hello[at]jencorbett.dev. 
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
