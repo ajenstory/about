@@ -3,7 +3,7 @@ Hey, it's Jen,
 I'm a digital strategist, marketing specialist, experience designer and developer based in Taitokerau, Aotearoa - Northland, New Zealand. 
 
 #### What I'm working on now &nbsp;👩🏻‍💻
-In between working on marketing for a New Zealand Software Company, working as a freelancer at ideaSmith NZ and studying towards my User Experience Design Certification with Google through Coursera, I'm building a portfolio and working on projects that will one day be online at [JenCorbett.dev](https://jencorbett.dev) 
+In between working on marketing for a New Zealand Software Company, working as a freelancer under the handle ideaSmith NZ and studying towards my User Experience Professional Design Certification with Google through Coursera, I'm building the projects that will one day make it into my personal portfolio at [JenCorbett.dev](https://jencorbett.dev).
 <!--
 - [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev)
 --->
