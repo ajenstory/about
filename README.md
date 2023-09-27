@@ -1,17 +1,12 @@
-Hey, it's Jen!
+Hey, it's Jen,
 
-I'm journeying into software development folowing more than a decade in the social media and digital marketing space!
+I'm a digital strategist, marketing specialist, experience designer and developer based in Taitokerau, Aotearoa - Northland, New Zealand. 
 
 #### What I'm working on now &nbsp;👩🏻‍💻
-I'm currently building my portfolio at [JenCorbett.dev](https://jencorbett.dev) 
+In between working on marketing for a New Zealand Software Company, working as a freelancer at ideaSmith NZ and studying towards my User Experience Design Certification with Google through Coursera, I'm building a portfolio and working on projects that will one day be online at [JenCorbett.dev](https://jencorbett.dev) 
 <!--
 - [JenCorbett.dev: Personal portfolio and site](https://github.com/ajenstory/jencorbett.dev)
 --->
-
-I'll be sharing more details on projects here soon...
-
-### Let's connect &nbsp; 📯
-If you're interested in collaborating, let's connect on hello[at]jencorbett.dev. 
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
