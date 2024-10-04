@@ -1,4 +1,4 @@
-I'm a digital creative - designer, developer and strategist based in Taitokerau, Aotearoa - Northland, New Zealand. Always happy to discuss new projects share ideas – connect with me via linkedin or email.
+Designer / Developer & Marketer
 
 &nbsp; &nbsp; &nbsp; &nbsp; 
   
